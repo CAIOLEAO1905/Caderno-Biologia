@@ -18,14 +18,14 @@
     "href": "pesquisa/iniciacao_cientifica/analise_crescimento.html",
     "title": "Taxa de Crescimento Fúngico",
     "section": "",
-    "text": "Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.\n\n\nCode\n# Gerando dados simulados\ndias &lt;- 1:10\nbiomassa_mg &lt;- exp(0.5 * dias) # Crescimento exponencial\n\n# Criando o gráfico em R base\nplot(\n  x = dias, \n  y = biomassa_mg, \n  type = \"b\", \n  pch = 19, \n  col = \"darkgreen\",\n  lwd = 2,\n  main = \"Curva de Crescimento Micelial\",\n  xlab = \"Dias de Incubação\",\n  ylab = \"Biomassa (mg)\"\n)\n\n\n\n\n\n\n\n\n\nComo podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente."
+    "text": "Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.\n\n\nCode\n# \n# Gerando dados simulados\ndias &lt;- 1:10\nbiomassa_mg &lt;- exp(0.5 * dias) # Crescimento exponencial\n\n# Criando o gráfico em R base\nplot(\n  x = dias, \n  y = biomassa_mg, \n  type = \"b\", \n  pch = 19, \n  col = \"darkgreen\",\n  lwd = 2,\n  main = \"Curva de Crescimento Micelial\",\n  xlab = \"Dias de Incubação\",\n  ylab = \"Biomassa (mg)\"\n)\n\n\n\n\n\n\n\n\n\nComo podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente."
   },
   {
     "objectID": "pesquisa/iniciacao_cientifica/analise_crescimento.html#análise-exploratória",
     "href": "pesquisa/iniciacao_cientifica/analise_crescimento.html#análise-exploratória",
     "title": "Taxa de Crescimento Fúngico",
     "section": "",
-    "text": "Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.\n\n\nCode\n# Gerando dados simulados\ndias &lt;- 1:10\nbiomassa_mg &lt;- exp(0.5 * dias) # Crescimento exponencial\n\n# Criando o gráfico em R base\nplot(\n  x = dias, \n  y = biomassa_mg, \n  type = \"b\", \n  pch = 19, \n  col = \"darkgreen\",\n  lwd = 2,\n  main = \"Curva de Crescimento Micelial\",\n  xlab = \"Dias de Incubação\",\n  ylab = \"Biomassa (mg)\"\n)\n\n\n\n\n\n\n\n\n\nComo podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente."
+    "text": "Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.\n\n\nCode\n# \n# Gerando dados simulados\ndias &lt;- 1:10\nbiomassa_mg &lt;- exp(0.5 * dias) # Crescimento exponencial\n\n# Criando o gráfico em R base\nplot(\n  x = dias, \n  y = biomassa_mg, \n  type = \"b\", \n  pch = 19, \n  col = \"darkgreen\",\n  lwd = 2,\n  main = \"Curva de Crescimento Micelial\",\n  xlab = \"Dias de Incubação\",\n  ylab = \"Biomassa (mg)\"\n)\n\n\n\n\n\n\n\n\n\nComo podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente."
   },
   {
     "objectID": "disciplinas/semestre_05/biologia_molecular.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Carderno-Biologia",
+    "title": "Caderno Biológico",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "Espaço para organização e estudo da Ciência da Vida.\n\nNão é o mais forte das espécies que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças\n— Charles Dawin\n\n\n\nCode\n1 + 1\n\n\n[1] 2"
   },
   {
     "objectID": "resumos.html",
