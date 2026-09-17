@@ -1,0 +1,33 @@
+---
+title: "Taxa de Crescimento Fúngico"
+description: "Simulação de curva de crescimento em meio de cultura"
+categories: [pesquisa, R, micologia]
+---
+
+## Análise Exploratória
+
+Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.
+
+```{r}
+#| label: grafico-crescimento
+#| warning: false
+
+# Gerando dados simulados
+dias <- 1:10
+biomassa_mg <- exp(0.5 * dias) # Crescimento exponencial
+
+# Criando o gráfico em R base
+plot(
+  x = dias, 
+  y = biomassa_mg, 
+  type = "b", 
+  pch = 19, 
+  col = "darkgreen",
+  lwd = 2,
+  main = "Curva de Crescimento Micelial",
+  xlab = "Dias de Incubação",
+  ylab = "Biomassa (mg)"
+)
+```
+
+Como podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente.

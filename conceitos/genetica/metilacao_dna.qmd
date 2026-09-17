@@ -1,0 +1,14 @@
+---
+title: "Metilação do DNA"
+description: "Mecanismos epigenéticos e regulação transcricional"
+date: today
+categories: [epigenética, biologia molecular, conceitos]
+---
+
+A metilação do DNA é um mecanismo epigenético crucial que envolve a adição de um grupo metil (CH3) à base citosina, frequentemente ocorrendo em dinucleotídeos CpG.
+
+## Função Principal
+
+A metilação atua como um "interruptor" para a transcrição. Quando a região promotora de um gene está altamente metilada, a transcrição é reprimida, silenciando o gene.
+
+**Observação importante:** A metilação não altera a sequência original do DNA, apenas a forma como ele é lido pela maquinaria celular.

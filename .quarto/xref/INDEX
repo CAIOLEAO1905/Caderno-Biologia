@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "b7983b77"
+  },
+  "about.qmd": {
+    "about.html": "ad6bd2e2"
+  },
+  "Disciplinas/Semestre_03/biologia_molecular.qmd": {
+    "biologia_molecular.html": "7797e0bb"
+  },
+  "Conceitos/genetica/metilacao_dna.qmd": {
+    "metilacao_dna.html": "6e22742e"
+  },
+  "disciplinas/semestre_03/biologia_molecular.qmd": {
+    "biologia_molecular.html": "6729ce54"
+  },
+  "disciplinas/semestre_05/biologia_molecular.qmd": {
+    "biologia_molecular.html": "980bf4d7"
+  },
+  "pesquisa/iniciacao_cientifica/analise_crescimento.qmd": {
+    "analise_crescimento.html": "62a5b636"
+  },
+  "resumos.qmd": {
+    "resumos.html": "b1291f5b"
+  },
+  "conceitos/genetica/metilacao_dna.qmd": {
+    "metilacao_dna.html": "bc874039"
+  }
+}

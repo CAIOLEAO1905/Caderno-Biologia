@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+/* 1. Importa a família Roboto direto do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* 2. Diz ao site que a fonte principal (sans-serif) agora é a Roboto */
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+/*-- scss:rules --*/
+/* 3. Se você achar o tema Slate ainda um pouco escuro, esta regra deixa o fundo um cinza mais ameno */
+body.quarto-dark {
+  background-color: #2b2b2b !important;
+}

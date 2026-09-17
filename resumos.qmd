@@ -1,0 +1,12 @@
+---
+title: "Banco de Resumos e Conceitos"
+listing:
+  contents: conceitos/**/*.qmd
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [title, description, categories, date]
+---
+
+Aqui ficam todos os conceitos consolidados, gerados automaticamente a partir das anotações de aula e leituras.

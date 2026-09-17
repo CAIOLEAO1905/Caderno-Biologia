@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "resumos.qmd": [
+      "conceitos/**/*.qmd"
+    ]
+  }
+}
