@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "conceitos/genetica/metilacao_dna.html",
-    "href": "conceitos/genetica/metilacao_dna.html",
-    "title": "Metilação do DNA",
+    "objectID": "resumos.html",
+    "href": "resumos.html",
+    "title": "Banco de Resumos e Conceitos",
     "section": "",
-    "text": "A metilação do DNA é um mecanismo epigenético crucial que envolve a adição de um grupo metil (CH3) à base citosina, frequentemente ocorrendo em dinucleotídeos CpG."
+    "text": "Aqui ficam todos os conceitos consolidados, gerados automaticamente a partir das anotações de aula e leituras.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nDescription\nCategories\nDate\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "conceitos/genetica/metilacao_dna.html#função-principal",
-    "href": "conceitos/genetica/metilacao_dna.html#função-principal",
-    "title": "Metilação do DNA",
-    "section": "Função Principal",
-    "text": "Função Principal\nA metilação atua como um “interruptor” para a transcrição. Quando a região promotora de um gene está altamente metilada, a transcrição é reprimida, silenciando o gene.\nObservação importante: A metilação não altera a sequência original do DNA, apenas a forma como ele é lido pela maquinaria celular."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caderno Biológico",
+    "section": "",
+    "text": "Espaço para organização e estudo da Ciência da Vida.\n\nNão é o mais forte das espécies que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças.\n— Charles Dawin\n\n\nMatériais de estudo -\n\nSIGAA\nGoogle Sada de Aula\nConsensus\n\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "disciplinas/semestre_03/ecologia.html",
+    "href": "disciplinas/semestre_03/ecologia.html",
+    "title": "[INT0158 - ECOLOGIA 2]",
+    "section": "",
+    "text": "Professor(a): Felipe Melo (E-mail: [felipe.plmelo@ufpe.br])\nAvaliação: [31/9]"
+  },
+  {
+    "objectID": "disciplinas/semestre_03/ecologia.html#informações-gerais",
+    "href": "disciplinas/semestre_03/ecologia.html#informações-gerais",
+    "title": "[INT0158 - ECOLOGIA 2]",
+    "section": "",
+    "text": "Professor(a): Felipe Melo (E-mail: [felipe.plmelo@ufpe.br])\nAvaliação: [31/9]"
+  },
+  {
+    "objectID": "disciplinas/semestre_03/ecologia.html#materiais-de-apoio",
+    "href": "disciplinas/semestre_03/ecologia.html#materiais-de-apoio",
+    "title": "[INT0158 - ECOLOGIA 2]",
+    "section": "Materiais de Apoio",
+    "text": "Materiais de Apoio\n\nSite da matéria\nAulas"
+  },
+  {
+    "objectID": "disciplinas/semestre_03/ecologia.html#diário-de-aulas",
+    "href": "disciplinas/semestre_03/ecologia.html#diário-de-aulas",
+    "title": "[INT0158 - ECOLOGIA 2]",
+    "section": "Diário de Aulas",
+    "text": "Diário de Aulas\nAnotações:\n[Digite aqui os principais pontos discutidos pelo professor, observações importantes e dúvidas que surgiram durante a explicação.]\n👉 Conceito relacionado: [Adicione aqui um link para a pasta de conceitos, se houver]"
   },
   {
     "objectID": "pesquisa/iniciacao_cientifica/analise_crescimento.html",
@@ -26,40 +61,5 @@
     "title": "Taxa de Crescimento Fúngico",
     "section": "",
     "text": "Abaixo, simulamos a coleta de dados da biomassa ao longo de 10 dias de incubação. O Quarto vai rodar o código R e injetar o gráfico diretamente no site.\n\n\nCode\n# \n# Gerando dados simulados\ndias &lt;- 1:10\nbiomassa_mg &lt;- exp(0.5 * dias) # Crescimento exponencial\n\n# Criando o gráfico em R base\nplot(\n  x = dias, \n  y = biomassa_mg, \n  type = \"b\", \n  pch = 19, \n  col = \"darkgreen\",\n  lwd = 2,\n  main = \"Curva de Crescimento Micelial\",\n  xlab = \"Dias de Incubação\",\n  ylab = \"Biomassa (mg)\"\n)\n\n\n\n\n\n\n\n\n\nComo podemos observar no gráfico, o crescimento entra em fase logarítmica rapidamente."
-  },
-  {
-    "objectID": "disciplinas/semestre_05/biologia_molecular.html",
-    "href": "disciplinas/semestre_05/biologia_molecular.html",
-    "title": "Biologia Molecular",
-    "section": "",
-    "text": "Hoje discutimos como o ambiente pode influenciar a expressão dos genes sem alterar a sequência genética.\nO professor deu bastante ênfase no processo de Metilação do DNA. Precisamos revisar como os dinucleotídeos CpG funcionam antes da prova.\nTambém foi mencionada uma possível ponte com a área de Micologia, observando como fungos patogênicos utilizam modificações epigenéticas para se adaptar ao hospedeiro. Vou pesquisar sobre projetos de iniciação científica nessa intersecção."
-  },
-  {
-    "objectID": "disciplinas/semestre_05/biologia_molecular.html#aula-14-regulação-gênica-em-eucariotos",
-    "href": "disciplinas/semestre_05/biologia_molecular.html#aula-14-regulação-gênica-em-eucariotos",
-    "title": "Biologia Molecular",
-    "section": "",
-    "text": "Hoje discutimos como o ambiente pode influenciar a expressão dos genes sem alterar a sequência genética.\nO professor deu bastante ênfase no processo de Metilação do DNA. Precisamos revisar como os dinucleotídeos CpG funcionam antes da prova.\nTambém foi mencionada uma possível ponte com a área de Micologia, observando como fungos patogênicos utilizam modificações epigenéticas para se adaptar ao hospedeiro. Vou pesquisar sobre projetos de iniciação científica nessa intersecção."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Caderno Biológico",
-    "section": "",
-    "text": "Espaço para organização e estudo da Ciência da Vida.\n\nNão é o mais forte das espécies que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças.\n— Charles Dawin\n\n\n\nCode\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "resumos.html",
-    "href": "resumos.html",
-    "title": "Banco de Resumos e Conceitos",
-    "section": "",
-    "text": "Aqui ficam todos os conceitos consolidados, gerados automaticamente a partir das anotações de aula e leituras.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nCategories\n\n\n\nDate\n\n\n\n\n\n\n\n\nMetilação do DNA\n\n\nMecanismos epigenéticos e regulação transcricional\n\n\nepigenética, biologia molecular, conceitos\n\n\nSep 17, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
